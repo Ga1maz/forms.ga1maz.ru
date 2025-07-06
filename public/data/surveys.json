@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Опрос по безопасности",
+      "until_what": "2025-05-09T23:59:59+05:00",
+      "route": "safety-check",
+      "inframe_url": "https://forms.yandex.ru/cloud/6805eec002848f123772a9d1/?iframe=1"
+    },
+    {
+      "name": "Опрос по комфорту",
+      "until_what": "2024-05-10T23:59:59+05:00", 
+      "route": "comfort-check",
+      "inframe_url": "https://example.com/comfort"
+    }
+  ]
+  
